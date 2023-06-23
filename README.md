@@ -21,13 +21,9 @@ git clone https://github.com/mayankdhnkr/job-portal.git
 
 2. Connect to MongoDB Compass
 
-3. Start Spring API
-```bash
-cd job_portal_backend
-cd src/main/java
-cd com/example/JobPortal
-java JobPortalApplication
-```
+3. Make a DB with name "jobportal"
+
+3. Start Spring API- Open the project in IntelliJ IDEA or any other IDE and run the project
 
 4. Start React frontend
 ```bash
